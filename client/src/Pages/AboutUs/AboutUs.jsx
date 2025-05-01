@@ -16,7 +16,7 @@ const AboutUs = () => {
         </p>
 
         <div>
-          <h2 className="text-3xl font-bold mb-2 text-yellow-300">Our Mission</h2>
+          <h2 className="text-3xl font-bold mb-2 text-red-300">Our Mission</h2>
           <p className="text-lg leading-relaxed">
             At DishDialogue, we believe that food is more than just sustenance—it’s a language that brings people together. Our mission is to create a vibrant, inclusive space where food lovers from all walks of life can share their passion, exchange ideas, and inspire one another. From mouthwatering homemade meals to hidden gem eateries, we’re here to help you document, discuss, and delight in every bite.
           </p>
