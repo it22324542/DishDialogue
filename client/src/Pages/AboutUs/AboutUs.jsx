@@ -34,7 +34,7 @@ const AboutUs = () => {
         </div>
 
         <div>
-          <h2 className="text-3xl font-bold mb-2 text-yellow-300">Why DishDialogue?</h2>
+          <h2 className="text-3xl font-bold mb-2 text-red-300">Why DishDialogue?</h2>
           <p className="text-lg leading-relaxed">
             Unlike other platforms, DishDialogue is built by food lovers, for food lovers. We prioritize authenticity, creativity, and connection, ensuring every user feels welcome to express their culinary passion. Whether you're looking for the perfect pasta recipe, the best street food spots in your city, or simply a place to geek out over food photography, you’ll find your tribe here.
           </p>
