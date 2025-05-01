@@ -12,7 +12,7 @@ const AboutUs = () => {
         <h1 className="text-5xl font-extrabold mb-4">Welcome to DishDialogue</h1>
         
         <p className="text-lg leading-relaxed">
-          Welcome to <span className="font-semibold text-yellow-400">DishDialogue</span>, the ultimate social media platform crafted for food and drink enthusiasts who live to savor, share, and celebrate culinary experiences! Whether you're a home cook experimenting with new recipes, a seasoned food critic reviewing the hottest restaurants, or simply someone who loves discovering delicious dishes, DishDialogue is your go-to community to connect with fellow foodies.
+          Welcome to <span className="font-semibold text-red-400">DishDialogue</span>, the ultimate social media platform crafted for food and drink enthusiasts who live to savor, share, and celebrate culinary experiences! Whether you're a home cook experimenting with new recipes, a seasoned food critic reviewing the hottest restaurants, or simply someone who loves discovering delicious dishes, DishDialogue is your go-to community to connect with fellow foodies.
         </p>
 
         <div>
