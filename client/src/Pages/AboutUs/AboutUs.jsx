@@ -40,7 +40,7 @@ const AboutUs = () => {
           </p>
         </div>
 
-        <p className="text-xl font-semibold mt-6 text-yellow-400">
+        <p className="text-xl font-semibold mt-6 text-red-400">
           Join us today and be part of a growing community that eats, shares, and connects—one dish at a time. Let’s Dish It Out!
         </p>
       </div>
