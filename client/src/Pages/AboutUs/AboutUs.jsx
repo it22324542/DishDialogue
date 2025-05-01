@@ -23,7 +23,7 @@ const AboutUs = () => {
         </div>
 
         <div>
-          <h2 className="text-3xl font-bold mb-2 text-yellow-300">What We Offer</h2>
+          <h2 className="text-3xl font-bold mb-2 text-red-300">What We Offer</h2>
           <ul className="text-lg leading-relaxed list-disc list-inside text-left mx-auto max-w-2xl space-y-2">
             <li><span className="font-semibold text-yellow-400">Share Your Culinary Journey:</span> Post photos, videos, and stories of your favorite dishes, recipes, and dining experiences.</li>
             <li><span className="font-semibold text-yellow-400">Discover & Explore:</span> Follow chefs, food bloggers, and fellow enthusiasts to get inspired by global and local flavors.</li>
